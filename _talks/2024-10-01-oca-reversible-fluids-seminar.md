@@ -5,6 +5,6 @@ type: "Seminar"
 category: "Seminar"
 permalink: /talks/2024-10-01-oca-reversible-fluids-seminar
 venue: "Fluid Team, Observatoire de la Côte d'Azur"
-date: 2024-10-01
+date: 2024-10-22
 location: "Nice, France"
 ---
