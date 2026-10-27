@@ -213,25 +213,17 @@
 }
 
 
-.cv-section-divider {
-  border: 0 !important;
-  border-top: 1px solid #ffffff !important;
-  margin-top: 0.5rem;
-  margin-bottom: 1.2rem;
-  opacity: 1;
-}
-
-
 /* CV section headings */
 .cv-section-title {
   margin-top: 1.5rem;
   margin-bottom: 0.5rem;
 }
 
-/* White divider below each section heading */
-.cv-section-divider {
+/* CV and Publications: section dividers */
+.cv-section-divider,
+.publications-section-divider {
   border: 0 !important;
-  border-top: 1px solid #ffffff !important;
+  border-top: 1px solid var(--global-text-color) !important;
   margin-top: 0.5rem;
   margin-bottom: 1rem;
   opacity: 1;
@@ -256,24 +248,16 @@
   font-size: 0.95em;
 }
 
-
-/* Publications: category headings and adaptive separators */
+/* Publications: category headings */
 .publications-section-title {
   margin-top: 1.5rem;
   margin-bottom: 0.5rem;
 }
 
-.publications-section-divider {
-  border: 0 !important;
-  border-top: 1px solid !important;
-  border-color: inherit !important;
-  margin-top: 0.5rem;
-  margin-bottom: 1rem;
-  opacity: 1;
-}
-
-/* Dark mode: white separator */
-html[data-theme="dark"] .publications-section-divider,
-[data-theme="dark"] .publications-section-divider {
+/* Dark mode: white separators */
+[data-theme="dark"] .cv-section-divider,
+[data-theme="dark"] .publications-section-divider,
+html[data-theme="dark"] .cv-section-divider,
+html[data-theme="dark"] .publications-section-divider {
   border-top-color: #ffffff !important;
 }
