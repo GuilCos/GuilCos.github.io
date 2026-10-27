@@ -193,3 +193,21 @@
 .talks-page .archive__item-title span {
   color: var(--global-link-color) !important;
 }
+
+.cv-compact {
+  font-size: 0.85rem;
+  line-height: 1.45;
+}
+
+.cv-compact ul {
+  margin-top: 0.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.cv-compact li {
+  margin-bottom: 0.3rem;
+}
+
+.cv-compact ul ul {
+  font-size: 0.92em;
+}
