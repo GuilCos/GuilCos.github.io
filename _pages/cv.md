@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+<div class="cv-compact">
 
 Education
 ======
@@ -36,11 +37,14 @@ Education
 
 Work Experience
 ======
+
 * **01/05/2026 – 31/10/2026 — Postdoctoral Researcher**, Institut de Physique, INPHYNI, Nice.
 
 * **01/09/2024 – 30/04/2026 — Postdoctoral Researcher**, Observatoire de la Côte d’Azur, Nice, France.
 
 * **01/09/2021 – 31/08/2024 — PhD Student and Teaching Assistant**, Université Paris-Saclay, CEA-SPEC, France.
+
+</div>
 
 Publications
 ======
