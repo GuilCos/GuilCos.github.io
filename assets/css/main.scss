@@ -36,3 +36,13 @@
     "layout/archive",
     "layout/sidebar"
 ;
+/* Larger name in the author sidebar */
+.author__name {
+  font-size: 1.5rem;
+  line-height: 1.3;
+}
+
+/* Larger site title in the top navigation */
+.masthead .site-title {
+  font-size: 1.5rem;
+}
