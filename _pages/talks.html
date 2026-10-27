@@ -26,12 +26,10 @@ author_profile: true
   {% assign entries = site.talks | where: "category", category | sort: "date" | reverse %}
 
   {% if entries.size > 0 %}
-
-## {{ heading }}
+    <h2 class="talk-category-heading">{{ heading }}</h2>
 
     {% for post in entries %}
       {% include archive-single-talk.html %}
     {% endfor %}
-
   {% endif %}
 {% endfor %}
