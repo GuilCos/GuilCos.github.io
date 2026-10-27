@@ -1,6 +1,7 @@
 ---
 title: "Log-lattices for atmospheric flows"
 collection: publications
+category: manuscripts
 permalink: /publication/pikeroen2023-log-lattices-atmospheric-flows/
 date: 2023-11-01
 venue: "Atmosphere"
