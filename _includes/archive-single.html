@@ -30,17 +30,10 @@
       {% endif %}
     </h2>
 
-    {% if post.date %}
-      <p class="page__date">
-        <strong>
-          <i class="fa fa-fw fa-calendar" aria-hidden="true"></i>
-          {{ post.date | date: "%Y" }}
-        </strong>
+    {% if post.venue or post.date %}
+      <p class="archive__item-venue">
+        {% if post.venue %}<i>{{ post.venue }}</i>{% endif %}{% if post.venue and post.date %}, {% endif %}{% if post.date %}{{ post.date | date: "%Y" }}{% endif %}
       </p>
-    {% endif %}
-
-    {% if post.venue %}
-      <p><i>{{ post.venue }}</i></p>
     {% endif %}
 
     {% if post.excerpt %}
@@ -66,7 +59,7 @@
 
         {% if post.paperurl %}
           {% if has_previous_link %} | {% endif %}
-          <a href="{{ post.paperurl }}">{% if post.category == "phd" %}Download Thesis{% else %}PDF{% endif %}</a>
+          <a href="{{ post.paperurl }}">{% if post.category == "phd" %}PDF (thesis){% else %}PDF{% endif %}</a>
           {% assign has_previous_link = true %}
         {% endif %}
 
