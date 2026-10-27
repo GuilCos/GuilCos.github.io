@@ -1,6 +1,7 @@
 ---
 title: "Universal self-similar evolution of two-dimensional Bose-Einstein condensates in the acoustic regime"
 collection: publications
+category: manuscripts
 permalink: /publication/costa2026-universal-self-similar-bec/
 date: 2026-07-01
 venue: "arXiv preprint"
