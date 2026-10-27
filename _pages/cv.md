@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
----
+<hr class="cv-section-divider">
 * **01/09/2021 – 31/08/2024 — PhD in Physics**, Université Paris-Saclay, CEA-SPEC.
   * Thesis: *Intermittency, Singularity and Reversibility on Log-lattices*.
   * Defended on 18 June 2024.
@@ -36,7 +36,7 @@ Education
 
 Work Experience
 ======
----
+<hr class="cv-section-divider">
 * **01/05/2026 – 31/10/2026 — Postdoctoral Researcher**, Institut de Physique, INPHYNI, Nice.
 
 * **01/09/2024 – 30/04/2026 — Postdoctoral Researcher**, Observatoire de la Côte d’Azur, Nice, France.
@@ -45,21 +45,21 @@ Work Experience
 
 Publications
 ======
----
+<hr class="cv-section-divider">
 <ul>{% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
 Talks
 ======
----
+<hr class="cv-section-divider">
 <ul>{% for post in site.talks reversed %}
   {% include archive-single-talk-cv.html %}
 {% endfor %}</ul>
 
 Teaching Experience
 ======
----
+<hr class="cv-section-divider">
 * **2021–2024 — Teaching Assistant, Physics Laboratory (L3, third-year undergraduate)**, École Normale Supérieure Paris-Saclay.
   * 156 hours of laboratory instruction over three academic years (64h in 2021–2022, 64h in 2022–2023, 28h in 2023–2024).
 
