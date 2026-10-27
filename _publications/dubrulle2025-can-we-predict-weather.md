@@ -1,6 +1,7 @@
 ---
 title: "Can we predict the weather? New tools for an old problem"
 collection: publications
+category: manuscripts
 permalink: /publication/dubrulle2025-can-we-predict-weather/
 date: 2025-08-01
 venue: "Physical Review Fluids"
