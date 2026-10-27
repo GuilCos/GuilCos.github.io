@@ -61,7 +61,7 @@ Teaching Experience
 ======
 
 * **2021–2024 — Teaching Assistant, Physics Laboratory (L3, third-year undergraduate)**, École Normale Supérieure Paris-Saclay.
-  * 156 hours of laboratory instruction over three academic years (64h in 2021–2022, 54h in 2022–2023, 28h in 2023–2024).
+  * 156 hours of laboratory instruction over three academic years (64h in 2021–2022, 64h in 2022–2023, 28h in 2023–2024).
 
 * **2021–2022 — Teaching Assistant, Waves and Thermodynamics Tutorials (L2, second-year undergraduate)**, Université Paris-Saclay.
   * 36 hours of tutorial sessions.
