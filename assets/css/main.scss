@@ -97,35 +97,30 @@
 }
 
 
-/* Compact publication list */
+
+/* Force compact layout for publication entries */
 .archive__item {
-  margin-bottom: 0.5em;
+  margin-bottom: 0.5rem !important;
+  padding-bottom: 0 !important;
 }
 
 .archive__item-title {
-  font-size: 0.85em;
-  line-height: 1.2;
-  margin-top: 0;
-  margin-bottom: 0.15em;
+  font-size: 0.85rem !important;
+  line-height: 1.2 !important;
+  margin: 0 0 0.2rem 0 !important;
 }
 
-.archive__item p {
-  font-size: 0.8em;
-  line-height: 1.3;
-  margin-top: 0.1em;
-  margin-bottom: 0.1em;
-}
-
+.archive__item p,
+.archive__item .citation,
 .archive__item-excerpt {
-  font-size: 0.8em;
-  line-height: 1.3;
-  margin-top: 0.1em;
-  margin-bottom: 0.1em;
+  font-size: 0.8rem !important;
+  line-height: 1.3 !important;
+  margin-top: 0 !important;
+  margin-bottom: 0.2rem !important;
 }
 
-.archive__item .citation {
-  font-size: 0.8em;
-  line-height: 1.3;
-  margin: 0.1em 0;
+.archive__item ul,
+.archive__item ol {
+  margin-top: 0.1rem !important;
+  margin-bottom: 0.2rem !important;
 }
-
