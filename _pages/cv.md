@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-<div class="cv-compact">
 
 Education
 ======
@@ -44,22 +43,23 @@ Work Experience
 
 * **01/09/2021 – 31/08/2024 — PhD Student and Teaching Assistant**, Université Paris-Saclay, CEA-SPEC, France.
 
-</div>
-
 Publications
 ======
+
 <ul>{% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
 Talks
 ======
+
 <ul>{% for post in site.talks reversed %}
   {% include archive-single-talk-cv.html %}
 {% endfor %}</ul>
 
 Teaching Experience
 ======
+
 * **2021–2024 — Teaching Assistant, Physics Laboratory (L3, third-year undergraduate)**, École Normale Supérieure Paris-Saclay.
   * 156 hours of laboratory instruction over three academic years (64h in 2021–2022, 54h in 2022–2023, 28h in 2023–2024).
 
