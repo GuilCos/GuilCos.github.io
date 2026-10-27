@@ -1,6 +1,7 @@
 ---
 title: "Behind the mirror: The hidden dissipative singular solutions of ideal reversible fluids on log-lattices"
 collection: publications
+category: manuscripts
 permalink: /publication/costa2025-behind-the-mirror/
 date: 2025-11-01
 venue: "Physical Review Fluids"
