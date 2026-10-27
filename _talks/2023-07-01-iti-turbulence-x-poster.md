@@ -8,5 +8,3 @@ venue: "iTi 2023 Conference on Turbulence X"
 date: 2023-07-01
 location: "Bertinoro, Italy"
 ---
-
-Poster presentation.
