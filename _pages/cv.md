@@ -51,6 +51,20 @@ redirect_from:
 
 </div>
 
+<h2 class="cv-section-title">Publications</h2>
+<hr class="cv-section-divider">
+
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+<h2 class="cv-section-title">Talks</h2>
+<hr class="cv-section-divider">
+
+<ul>{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>
+
 <h2 class="cv-section-title">Fellowships &amp; Grants</h2>
 <hr class="cv-section-divider">
 
@@ -61,14 +75,7 @@ redirect_from:
 
 </div>
 
-<h2 class="cv-section-title">Publications</h2>
-<hr class="cv-section-divider">
-
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
-<h2 class="cv-section-title">Awards &amp; Distinctions</h2>
+<h2 class="cv-section-title">Distinctions &amp; Awards</h2>
 <hr class="cv-section-divider">
 
 <div class="cv-compact" markdown="1">
@@ -76,13 +83,6 @@ redirect_from:
 * **2025 — Seal of Excellence**, Marie Skłodowska-Curie Actions, European Commission.
 
 </div>
-
-<h2 class="cv-section-title">Talks</h2>
-<hr class="cv-section-divider">
-
-<ul>{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}</ul>
 
 <h2 class="cv-section-title">Teaching Experience</h2>
 <hr class="cv-section-divider">
@@ -96,4 +96,3 @@ redirect_from:
   * 36 hours of tutorial sessions.
 
 </div>
-
