@@ -15,29 +15,59 @@ More broadly, I am interested in the connections between **dynamical systems, st
 
 You can find my research contributions in the [publications](/publications/) section, together with information about my research background and scientific interests.
 
-## Research interests
-- Nonlinear dynamics
-- Statistical mechanics of out-of-equilibrium systems
-- Turbulence and Wave Turbulence
+<div class="research-education">
 
-## Education
+  <div class="research-column">
 
-- <i class="fas fa-graduation-cap" aria-hidden="true"></i> **PhD in Physics**, Université Paris-Saclay, France  
-  *CEA – SPEC* · September 2021 – June 2024  
-  Thesis: *Intermittency, Singularity and Reversibility on Log-lattices*  
-  Defended on 18 June 2024, under the supervision of Bérengère Dubrulle.
+    <h2>Research interests</h2>
 
-- **Master's degree in Physics of Complex Systems**, Université Paris-Saclay, France  
-  September 2020 – August 2021
+    <ul>
+      <li>Nonlinear dynamics</li>
+      <li>Statistical mechanics of out-of-equilibrium systems</li>
+      <li>Turbulence and wave turbulence</li>
+    </ul>
 
-- **Agrégation in Physics and Chemistry**, France  
-  Obtained in 2020, ranked 35th nationally.
+  </div>
 
-- **Master 2 – Formation à l’Enseignement Supérieur**, ENS Paris-Saclay, France  
-  September 2019 – August 2020
+  <div class="education-column">
 
-- **L3 and Master 1 in Fundamental Physics**, ENS Paris-Saclay, France  
-  September 2017 – August 2019
+    <h2>Education</h2>
 
-- **Classes préparatoires aux grandes écoles (CPGE)**, Lycées Faidherbe & Baggio, Lille, France  
-  September 2014 – August 2017
+    <ul class="education-list">
+
+      <li>
+        <i class="fas fa-graduation-cap" aria-hidden="true"></i>
+        <strong>PhD in Physics</strong>, Université Paris-Saclay, France<br>
+        <em>CEA – SPEC · September 2021 – June 2024</em><br>
+        Thesis: <em>Intermittency, Singularity and Reversibility on Log-lattices</em><br>
+        Defended on 18 June 2024, under the supervision of Bérengère Dubrulle.
+      </li>
+
+      <li>
+        <i class="fas fa-graduation-cap" aria-hidden="true"></i>
+        <strong>Master's degree in Physics of Complex Systems</strong><br>
+        Université Paris-Saclay, France · <em>2020–2021</em>
+      </li>
+
+      <li>
+        <i class="fas fa-graduation-cap" aria-hidden="true"></i>
+        <strong>Master 2 – Formation à l’Enseignement Supérieur</strong><br>
+        ENS Paris-Saclay · <em>2019–2020</em><br>
+        French <em>agrégation de physique-chimie</em>, ranked 35th nationally.
+      </li>
+
+      <li>
+        <strong>L3 and Master 1 in Fundamental Physics</strong><br>
+        ENS Paris-Saclay · <em>2017–2019</em>
+      </li>
+
+      <li>
+        <strong>Classes préparatoires aux grandes écoles (CPGE)</strong><br>
+        Lycées Faidherbe &amp; Baggio, Lille · <em>2014–2017</em>
+      </li>
+
+    </ul>
+
+  </div>
+
+</div>
