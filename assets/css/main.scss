@@ -227,7 +227,28 @@
 }
 
 
-/* Compact typography for selected CV sections only */
+
+/* Center the CV page title */
+.layout--archive .page__title {
+  text-align: center;
+}
+
+/* CV section headings */
+.cv-section-title {
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+/* White divider below each section heading */
+.cv-section-divider {
+  border: 0 !important;
+  border-top: 1px solid #ffffff !important;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+  opacity: 1;
+}
+
+/* Compact typography for selected CV sections */
 .cv-compact {
   font-size: 0.88rem;
   line-height: 1.45;
