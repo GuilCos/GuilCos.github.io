@@ -18,13 +18,9 @@ More broadly, I am interested in the connections between **dynamical systems, st
 You can find my research contributions in the [publications](/publications/) section, together with information about my research background and scientific interests.
 
 ## Research interests
-
-- Classical fluid turbulence and intermittency
-- Wave turbulence and kinetic theory
-- Bose–Einstein condensates and quantum fluids
-- Nonlinear dynamics and self-similar evolution
+- Nonlinear dynamics
 - Statistical mechanics of out-of-equilibrium systems
-- Singularities, reversibility, and logarithmic lattices
+- Turbulence and Wave Turbulence
 
 ## Education
 
