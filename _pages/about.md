@@ -9,7 +9,7 @@ redirect_from:
 
 My research focuses on the theoretical and numerical study of **out-of-equilibrium systems**, with a particular interest in turbulence, nonlinear dynamics, and statistical physics. I investigate how complex behaviours and universal properties emerge from nonlinear interactions across scales, combining numerical simulations with analytical approaches.
 
-My work spans classical fluid turbulence and quantum fluids, including Bose–Einstein condensates and wave turbulence. During my PhD, I studied intermittency, singularities, and time reversibility in turbulent flows using logarithmic lattices. My subsequent research has focused on kinetic descriptions of wave turbulence, the stability of stationary turbulent spectra, and the self-similar evolution of two-dimensional Bose–Einstein condensates in the acoustic regime.
+My work spans classical fluid turbulence and quantum fluids, including Bose–Einstein condensates and wave turbulence. During my PhD, I studied intermittency, singularities, and time reversibility in turbulent flows using logarithmic lattices. My subsequent research has focused on kinetic descriptions of wave turbulence, the stability of stationary solutions of the WKE, and the self-similar evolution of two-dimensional Bose–Einstein condensates in the acoustic regime.
 
 More broadly, I am interested in the connections between **dynamical systems, statistical mechanics, and turbulence**, particularly in situations where standard theoretical descriptions become insufficient. My goal is to understand the mechanisms underlying scale-to-scale transfers, the emergence of statistical behaviour, and the dynamics of systems far from equilibrium.
 
