@@ -1,6 +1,7 @@
 ---
 title: "Reversible Navier-Stokes equation on logarithmic lattices"
 collection: publications
+category: manuscripts
 permalink: /publication/costa2023-reversible-navier-stokes/
 date: 2023-01-01
 venue: "Physical Review E"
