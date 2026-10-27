@@ -1,6 +1,7 @@
 ---
 title: "Stability of stationary solutions in acoustic wave turbulence"
 collection: publications
+category: manuscripts
 permalink: /publication/costa2026-stability-acoustic-wave-turbulence/
 date: 2026-02-01
 venue: "Physical Review E"
