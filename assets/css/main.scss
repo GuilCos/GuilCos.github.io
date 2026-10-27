@@ -261,3 +261,28 @@ html[data-theme="dark"] .cv-section-divider,
 html[data-theme="dark"] .publications-section-divider {
   border-top-color: #ffffff !important;
 }
+
+
+/* Section separators: light mode */
+.cv-section-divider,
+.publications-section-divider,
+.talk-category-heading {
+  border-color: var(--global-text-color) !important;
+}
+
+/* Section separators: dark mode */
+html[data-theme="dark"] .cv-section-divider,
+html[data-theme="dark"] .publications-section-divider,
+html[data-theme="dark"] .talk-category-heading,
+[data-theme="dark"] .cv-section-divider,
+[data-theme="dark"] .publications-section-divider,
+[data-theme="dark"] .talk-category-heading,
+html.dark .cv-section-divider,
+html.dark .publications-section-divider,
+html.dark .talk-category-heading,
+.dark .cv-section-divider,
+.dark .publications-section-divider,
+.dark .talk-category-heading {
+  border-color: #ffffff !important;
+}
+
