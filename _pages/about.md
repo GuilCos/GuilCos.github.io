@@ -16,10 +16,11 @@ More broadly, I am interested in the connections between **dynamical systems, st
 You can find my research contributions in the [publications](/publications/) section, together with information about my research background and scientific interests.
 
 
+
 <div class="research-education">
 
   <div class="research-column">
-    <h2>Research interests</h2>
+    <h2>Research Interests</h2>
 
     <ul>
       <li>Nonlinear dynamics</li>
@@ -35,28 +36,28 @@ You can find my research contributions in the [publications](/publications/) sec
       <li>
         <i class="fas fa-graduation-cap" aria-hidden="true"></i>
         <strong>PhD in Physics</strong>, Université Paris-Saclay, France<br>
-        <em>CEA – SPEC · September 2021 – June 2024</em><br>
+        <em>CEA-SPEC · September 2021 – June 2024</em><br>
         Thesis: <em>Intermittency, Singularity and Reversibility on Log-lattices</em><br>
-        Defended on 18 June 2024, under the supervision of Bérengère Dubrulle.
+        Defended on 18 June 2024 · Supervisor: Bérengère Dubrulle.
       </li>
 
       <li>
         <i class="fas fa-graduation-cap" aria-hidden="true"></i>
-        <strong>Master's degree in Physics of Complex Systems</strong><br>
-        Université Paris-Saclay, France · <em>2020–2021</em>
+        <strong>Master 2 (M2) in Physics of Complex Systems</strong><br>
+        Université Paris-Saclay, France · <em>September 2020 – June 2021</em>
       </li>
 
       <li>
         <i class="fas fa-graduation-cap" aria-hidden="true"></i>
-        <strong>Master 2 – Formation à l’Enseignement Supérieur</strong><br>
-        ENS Paris-Saclay · <em>2019–2020</em><br>
-        French <em>agrégation de physique-chimie</em>, ranked 35th nationally.
+        <strong>Master 2 (M2) in Higher Education Teacher Training</strong><br>
+        ENS Paris-Saclay, France · <em>September 2019 – June 2020</em><br>
+        Preparation for the French <em>agrégation</em> in Physics and Chemistry (ranked 35th nationally).
       </li>
 
       <li>
         <i class="fas fa-graduation-cap" aria-hidden="true"></i>
-        <strong>L3 and Master 1 in Fundamental Physics</strong><br>
-        ENS Paris-Saclay · <em>2017–2019</em>
+        <strong>Bachelor's and First-Year Master's Studies in Fundamental Physics</strong><br>
+        ENS Paris-Saclay, France · <em>September 2017 – June 2019</em>
       </li>
     </ul>
   </div>
