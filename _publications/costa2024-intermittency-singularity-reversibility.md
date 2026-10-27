@@ -1,6 +1,7 @@
 ---
 title: "Intermittency, Singularity & Reversibility on Log-lattices"
 collection: publications
+category: manuscripts
 permalink: /publication/costa2024-intermittency-singularity-reversibility/
 date: 2024-01-01
 venue: "PhD thesis, Université Paris-Saclay"
