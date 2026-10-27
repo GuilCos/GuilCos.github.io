@@ -1,6 +1,7 @@
 ---
 title: "Tracking complex singularities of fluids on log-lattices"
 collection: publications
+category: manuscripts
 permalink: /publication/pikeroen2024-tracking-complex-singularities/
 date: 2024-11-01
 venue: "Nonlinearity"
