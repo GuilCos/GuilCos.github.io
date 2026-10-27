@@ -86,12 +86,12 @@ author:
 publication_category:
   books:
     title: 'Books'
+  phd:
+    title: 'PhD Thesis'
   manuscripts:
     title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
-  phd:
-    title: 'PhD Thesis'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
