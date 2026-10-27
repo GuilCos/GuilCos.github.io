@@ -59,3 +59,36 @@
 .author__content {
   text-align: center;
 }
+
+/* Two-column layout: research interests and education */
+.research-education {
+  display: grid;
+  grid-template-columns: 0.8fr 1.5fr;
+  gap: 2rem;
+  align-items: start;
+}
+
+.research-education h2 {
+  margin-top: 0;
+}
+
+.education-list {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.education-list li {
+  margin-bottom: 1.2rem;
+}
+
+.education-list li i {
+  margin-right: 0.3rem;
+}
+
+@media (max-width: 768px) {
+  .research-education {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+}
