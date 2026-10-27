@@ -15,10 +15,10 @@ More broadly, I am interested in the connections between **dynamical systems, st
 
 You can find my research contributions in the [publications](/publications/) section, together with information about my research background and scientific interests.
 
+
 <div class="research-education">
 
   <div class="research-column">
-
     <h2>Research interests</h2>
 
     <ul>
@@ -26,15 +26,12 @@ You can find my research contributions in the [publications](/publications/) sec
       <li>Statistical mechanics of out-of-equilibrium systems</li>
       <li>Turbulence and wave turbulence</li>
     </ul>
-
   </div>
 
   <div class="education-column">
-
     <h2>Education</h2>
 
     <ul class="education-list">
-
       <li>
         <i class="fas fa-graduation-cap" aria-hidden="true"></i>
         <strong>PhD in Physics</strong>, Université Paris-Saclay, France<br>
@@ -57,17 +54,12 @@ You can find my research contributions in the [publications](/publications/) sec
       </li>
 
       <li>
+        <i class="fas fa-graduation-cap" aria-hidden="true"></i>
         <strong>L3 and Master 1 in Fundamental Physics</strong><br>
         ENS Paris-Saclay · <em>2017–2019</em>
       </li>
-
-      <li>
-        <strong>Classes préparatoires aux grandes écoles (CPGE)</strong><br>
-        Lycées Faidherbe &amp; Baggio, Lille · <em>2014–2017</em>
-      </li>
-
     </ul>
-
   </div>
 
 </div>
+
