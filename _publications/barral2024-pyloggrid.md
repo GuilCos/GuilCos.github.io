@@ -1,6 +1,7 @@
 ---
 title: "PyLogGrid: a Python package for fluid dynamics on logarithmic lattices"
 collection: publications
+category: manuscripts
 permalink: /publication/barral2024-pyloggrid/
 date: 2024-01-01
 venue: "Journal of Open Source Software"
