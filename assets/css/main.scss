@@ -221,17 +221,14 @@
   opacity: 1;
 }
 
-/* Center the CV page title */
-.layout--archive .page__title {
-  text-align: center;
-}
-
-
 
 /* Center the CV page title */
-.layout--archive .page__title {
-  text-align: center;
+.layout--archive .page__inner-wrap > header .page__title,
+.layout--archive .page__inner-wrap .page__title {
+  text-align: center !important;
+  width: 100%;
 }
+
 
 /* CV section headings */
 .cv-section-title {
