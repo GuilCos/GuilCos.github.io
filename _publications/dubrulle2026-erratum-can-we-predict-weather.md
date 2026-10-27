@@ -1,6 +1,7 @@
 ---
 title: "Erratum: Can we predict the weather? New tools for an old problem [Phys. Rev. Fluids 10, 083801 (2025)]"
 collection: publications
+category: manuscripts
 permalink: /publication/dubrulle2026-erratum-can-we-predict-weather/
 date: 2026-04-01
 venue: "Physical Review Fluids"
