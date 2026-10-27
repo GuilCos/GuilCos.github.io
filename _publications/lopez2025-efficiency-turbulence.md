@@ -1,6 +1,7 @@
 ---
 title: "Efficiency of turbulence"
 collection: publications
+category: manuscripts
 permalink: /publication/lopez2025-efficiency-turbulence/
 date: 2025-01-01
 venue: "Journal of Fluid Mechanics"
