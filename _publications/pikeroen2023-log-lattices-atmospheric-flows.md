@@ -5,6 +5,8 @@ category: manuscripts
 permalink: /publication/pikeroen2023-log-lattices-atmospheric-flows/
 date: 2023-11-01
 venue: "Atmosphere"
+doi: "10.3390/atmos14111690"
+paperurl: "https://www.mdpi.com/2073-4433/14/11/1690"
 citation: "Quentin Pikeroen, Amaury Barral, Guillaume Costa, and Bérengère Dubrulle. “Log-lattices for atmospheric flows.” *Atmosphere* 14, no. 11 (2023): 1690."
 ---
 
