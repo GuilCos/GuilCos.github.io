@@ -1,6 +1,7 @@
 ---
 title: "Stability of inverse cascade in NLS Wave turbulence"
 collection: publications
+category: manuscripts
 permalink: /publication/costa2026-stability-inverse-cascade-nls/
 date: 2026-10-01
 venue: "arXiv preprint"
