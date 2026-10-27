@@ -8,5 +8,3 @@ venue: "Simons Collaboration Turbulence Seminars"
 date: 2026-11-10
 location: "Online"
 ---
-
-Invited seminar (forthcoming).
