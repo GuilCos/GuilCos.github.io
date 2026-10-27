@@ -5,6 +5,6 @@ type: "Conference"
 category: "Conference"
 permalink: /talks/2026-02-01-complex-days-bec
 venue: "Complex Days 2026"
-date: 2026-02-01
+date: 2026-02-12
 location: "Nice, France"
 ---
