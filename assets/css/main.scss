@@ -226,3 +226,22 @@
   text-align: center;
 }
 
+
+/* Compact typography for selected CV sections only */
+.cv-compact {
+  font-size: 0.88rem;
+  line-height: 1.45;
+}
+
+.cv-compact ul {
+  margin-top: 0.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.cv-compact li {
+  margin-bottom: 0.25rem;
+}
+
+.cv-compact ul ul {
+  font-size: 0.95em;
+}
