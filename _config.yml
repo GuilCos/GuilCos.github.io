@@ -23,7 +23,7 @@ repository               : "GuilCos/GuilCos.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/Photo2.jpg"
+  avatar           : "Photo2.jpg"
   name             : "Guillaume Costa"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher"
