@@ -190,6 +190,6 @@
   margin-bottom: 0.15rem !important;
 }
 
-.talks-page .archive__item-title-link {
-  color: $link-color;
+.talks-page .archive__item-title span {
+  color: var(--global-link-color) !important;
 }
