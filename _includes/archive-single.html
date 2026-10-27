@@ -13,7 +13,7 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: 'list' }}__item">
+<div class="{{ include.type | default: 'list' }}__item publication-compact">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
     {% if include.type == "grid" and teaser %}
@@ -43,7 +43,7 @@
     {% endif %}
 
     {% if post.doi or post.paperurl or post.arxiv or post.slidesurl or post.bibtexurl %}
-      <p>
+      <p class="archive__item-links">
         {% assign has_previous_link = false %}
 
         {% if post.doi %}
