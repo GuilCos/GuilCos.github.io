@@ -11,54 +11,50 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
+* **01/09/2021 – 31/08/2024 — PhD in Physics**, Université Paris-Saclay, CEA-SPEC.
+  * Thesis: *Intermittency, Singularity and Reversibility on Log-lattices*.
+  * Defended on 18 June 2024.
+  * PhD carried out at CEA-SPEC, Université Paris-Saclay, under the supervision of Bérengère Dubrulle.
+  * **Thesis committee:**
+    * Sergio Chibbaro — President
+    * Luca Biferale — Reviewer
+    * Giorgio Krstulovic — Reviewer
+    * Isabelle Gallagher — Examiner
+    * Giovanni Gallavotti — Examiner
+  * Specialty: Physics.
+  * Keywords: Fluid mechanics, applied mathematics, numerical simulations.
+
+* **01/09/2020 – 31/08/2021 — Master 2 in Physics of Complex Systems**, Université Paris-Saclay.
+
+* **01/09/2019 – 31/08/2020 — Master 2 in Higher Education Teacher Training**, ENS Paris-Saclay.
+  * Obtained the French *agrégation* in Physics and Chemistry, ranked 35th nationally.
+
+* **01/09/2017 – 31/08/2019 — Bachelor's and First-Year Master's Studies in Fundamental Physics**, ENS Paris-Saclay.
+
+* **01/09/2014 – 31/08/2017 — Classes préparatoires aux grandes écoles (CPGE)**, Lycée Faidherbe and Lycée Baggio, Lille, France.
+
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **01/09/2024 – 30/04/2026 — Postdoctoral Researcher**, Observatoire de la Côte d’Azur, Nice, France.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **01/09/2021 – 31/08/2024 — PhD Student and Teaching Assistant**, Université Paris-Saclay, CEA-SPEC, France.
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<ul>{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
