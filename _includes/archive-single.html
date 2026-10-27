@@ -66,7 +66,7 @@
 
         {% if post.paperurl %}
           {% if has_previous_link %} | {% endif %}
-          <a href="{{ post.paperurl }}">{% if post.category == "phd" %}Download Thesis{% else %}HAL / PDF{% endif %}</a>
+          <a href="{{ post.paperurl }}">{% if post.category == "phd" %}Download Thesis{% else %}PDF{% endif %}</a>
           {% assign has_previous_link = true %}
         {% endif %}
 
