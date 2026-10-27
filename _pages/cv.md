@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+<h2 class="cv-section-title">Education</h2>
 <hr class="cv-section-divider">
+
+<div class="cv-compact" markdown="1">
+
 * **01/09/2021 – 31/08/2024 — PhD in Physics**, Université Paris-Saclay, CEA-SPEC.
   * Thesis: *Intermittency, Singularity and Reversibility on Log-lattices*.
   * Defended on 18 June 2024.
@@ -34,34 +36,44 @@ Education
 
 * **01/09/2014 – 31/08/2017 — Classes préparatoires aux grandes écoles (CPGE)**, Lycée Faidherbe and Lycée Baggio, Lille, France.
 
-Work Experience
-======
+</div>
+
+<h2 class="cv-section-title">Work Experience</h2>
 <hr class="cv-section-divider">
+
+<div class="cv-compact" markdown="1">
+
 * **01/05/2026 – 31/10/2026 — Postdoctoral Researcher**, Institut de Physique, INPHYNI, Nice.
 
 * **01/09/2024 – 30/04/2026 — Postdoctoral Researcher**, Observatoire de la Côte d’Azur, Nice, France.
 
 * **01/09/2021 – 31/08/2024 — PhD Student and Teaching Assistant**, Université Paris-Saclay, CEA-SPEC, France.
 
-Publications
-======
+</div>
+
+<h2 class="cv-section-title">Publications</h2>
 <hr class="cv-section-divider">
+
 <ul>{% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
-Talks
-======
+<h2 class="cv-section-title">Talks</h2>
 <hr class="cv-section-divider">
+
 <ul>{% for post in site.talks reversed %}
   {% include archive-single-talk-cv.html %}
 {% endfor %}</ul>
 
-Teaching Experience
-======
+<h2 class="cv-section-title">Teaching Experience</h2>
 <hr class="cv-section-divider">
+
+<div class="cv-compact" markdown="1">
+
 * **2021–2024 — Teaching Assistant, Physics Laboratory (L3, third-year undergraduate)**, École Normale Supérieure Paris-Saclay.
   * 156 hours of laboratory instruction over three academic years (64h in 2021–2022, 64h in 2022–2023, 28h in 2023–2024).
 
 * **2021–2022 — Teaching Assistant, Waves and Thermodynamics Tutorials (L2, second-year undergraduate)**, Université Paris-Saclay.
   * 36 hours of tutorial sessions.
+
+</div>
